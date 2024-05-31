@@ -122,9 +122,6 @@ Netflix GPT is a Web application that leverages OpenAI's GPT model to provide us
 
 ![Chat GPT Search Page](./src/images/SS-03.png)
 
-<br>
-
-![Multilanguage Feature](./src/images/SS-04.PNG)
 
 ## 📌 Tech Stack
 
